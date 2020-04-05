@@ -66,14 +66,14 @@ a:hover{
   text-align: left;
 }
 
-.programmer-image{
+.primary-skill-image{
   height: auto;
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.paparazzi-image{
+.secundary-skill-image{
   height: auto;
   width: 25%;
   float: right;
@@ -125,11 +125,11 @@ a:hover{
 
 .btn {
   background: #11CDD4;
-  background-image: -webkit-linear-gradient(top, rgb(17, 134, 212), #1b262c);
-  background-image: -moz-linear-gradient(top, rgb(17, 134, 212), #1b262c);
-  background-image: -ms-linear-gradient(top, rgb(17, 134, 212), #1b262c);
-  background-image: -o-linear-gradient(top, rgb(17, 134, 212), #1b262c);
-  background-image: linear-gradient(to bottom, rgb(17, 134, 212), #1b262c);
+  background-image: -webkit-linear-gradient(top, #1186d4, #1b262c);
+  background-image: -moz-linear-gradient(top, #1186d4, #1b262c);
+  background-image: -ms-linear-gradient(top, #1186d4, #1b262c);
+  background-image: -o-linear-gradient(top, #1186d4, #1b262c);
+  background-image: linear-gradient(to bottom, #1186d4, #1b262c);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
@@ -138,24 +138,19 @@ a:hover{
   font-size: 20px;
   font-weight: 100;
   padding: 20px;
-  /*box-shadow: 1px 1px 20px 0px #000000;
-  -webkit-box-shadow: 1px 1px 20px 0px #000000;
-  -moz-box-shadow: 1px 1px 20px 0px #000000;
-  text-shadow: 1px 1px 20px #000000;*/
   text-decoration: none;
   display: inline-block;
-  /*cursor: pointer;*/
   text-align: center;
   }
   
 .btn:hover {
   border: solid #337FED 0px;
-  background: rgb(48, 170, 227);
-  background-image: -webkit-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
-  background-image: -moz-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
-  background-image: -ms-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
-  background-image: -o-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
-  background-image: linear-gradient(to bottom, rgb(48, 170, 227), rgb(43, 153, 196));
+  background: #30aae3;
+  background-image: -webkit-linear-gradient(top, #30aae3, #2b99c4);
+  background-image: -moz-linear-gradient(top, #30aae3, #2b99c4);
+  background-image: -ms-linear-gradient(top, #30aae3, #2b99c4);
+  background-image: -o-linear-gradient(top, #30aae3, #2b99c4);
+  background-image: linear-gradient(to bottom, #30aae3, #2b99c4);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
