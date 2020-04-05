@@ -11,7 +11,7 @@ h1{
 }
 
 h2{
-  color: #66bfbf;
+  color: #0f4c75;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -19,7 +19,7 @@ h2{
 }
 
 h3{
-  color: #11999e;
+  color: #1b262c;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -35,7 +35,7 @@ hr{
 }
 
 a{
-  color: #11999e;
+  color: #1b262c;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -56,7 +56,7 @@ a:hover{
 }
 
 .bottom-container{
-  background-color: #66bfbf;
+  background-color: #3282b8;
   padding: 50px 0 20px;
 }
 
@@ -125,11 +125,11 @@ a:hover{
 
 .btn {
   background: #11CDD4;
-  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
-  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  background-image: -webkit-linear-gradient(top, rgb(17, 134, 212), #1b262c);
+  background-image: -moz-linear-gradient(top, rgb(17, 134, 212), #1b262c);
+  background-image: -ms-linear-gradient(top, rgb(17, 134, 212), #1b262c);
+  background-image: -o-linear-gradient(top, rgb(17, 134, 212), #1b262c);
+  background-image: linear-gradient(to bottom, rgb(17, 134, 212), #1b262c);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
@@ -150,12 +150,12 @@ a:hover{
   
 .btn:hover {
   border: solid #337FED 0px;
-  background: #30E3CB;
-  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  background: rgb(48, 170, 227);
+  background-image: -webkit-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
+  background-image: -moz-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
+  background-image: -ms-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
+  background-image: -o-linear-gradient(top, rgb(48, 170, 227), rgb(43, 153, 196));
+  background-image: linear-gradient(to bottom, rgb(48, 170, 227), rgb(43, 153, 196));
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
